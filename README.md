@@ -13,9 +13,9 @@ You can clone the YAML files form Github.
 File namespace.yml. This file will be used to create the monitoring namespace.
 namespace.yml
 
-Apply the namesapce:
+Apply the namesapces:
 
-__kubectl apply -f namespace.yml__
+__kubectl apply -f namespaces.yml__
  
 File called clusterRole.yml. This will be used to set up the cluster's roles.
 clusterRole.yml:
